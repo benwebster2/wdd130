@@ -1,0 +1,30 @@
+Body { 
+    background-color: white; 
+    max-width: 1600px;
+}
+#prophet { 
+    border: 5px solid blue; 
+    border-radius: 12%; 
+    background-color:white; 
+letter-spacing: 0 auto; text-align: center;
+}
+h1{ 
+    color: wheat; 
+    font-family:'Times New Roman', Times, serif;
+}
+a{ 
+    color: wheat;
+    font-family:'Times New Roman', Times, serif;
+}
+img{ 
+    text-align: center;
+    border: 300px solid white;
+}
+ul{ 
+    color:white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+p { 
+    color: gold; 
+    font-family:'Times New Roman', Times, serif;
+}
